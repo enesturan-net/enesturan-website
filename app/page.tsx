@@ -153,13 +153,6 @@ function NavBar() {
               {link.label}
             </a>
           ))}
-          <a
-            href="mailto:enes.turan7@outlook.com"
-            className="btn-primary"
-            style={{ padding: "0.45rem 1rem", fontSize: "0.85rem" }}
-          >
-            Hire Me
-          </a>
         </nav>
 
         <button
@@ -201,14 +194,6 @@ function NavBar() {
               {link.label}
             </a>
           ))}
-          <a
-            href="mailto:enes.turan7@outlook.com"
-            className="btn-primary"
-            style={{ marginTop: "0.5rem", justifyContent: "center" }}
-            onClick={() => setMenuOpen(false)}
-          >
-            Hire Me
-          </a>
         </div>
       )}
 
