@@ -725,29 +725,6 @@ export default function Home() {
             }}
           >
             <p className="section-label">Contact</p>
-            <h2
-              style={{
-                fontSize: "clamp(1.8rem, 4vw, 2.5rem)",
-                fontWeight: 700,
-                letterSpacing: "-0.02em",
-                marginBottom: "1rem",
-                lineHeight: 1.2,
-              }}
-            >
-              Let&apos;s Work Together
-            </h2>
-            <p
-              style={{
-                color: "#64748b",
-                fontSize: "1rem",
-                lineHeight: 1.7,
-                marginBottom: "2.5rem",
-              }}
-            >
-              I&apos;m available for full-time roles as of April 2026. Whether
-              you have a project, an opportunity, or just want to connect — feel
-              free to reach out.
-            </p>
 
             <div
               style={{
