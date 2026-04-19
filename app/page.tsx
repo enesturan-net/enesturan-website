@@ -348,7 +348,7 @@ export default function Home() {
                 Get In Touch
               </a>
               <a
-                href="https://www.linkedin.com/in/enes-turan"
+                href="https://www.linkedin.com/in/enes-turan-"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-outline"
@@ -780,7 +780,7 @@ export default function Home() {
                 ✉ enes.turan7@outlook.com
               </a>
               <a
-                href="https://www.linkedin.com/in/enes-turan"
+                href="https://www.linkedin.com/in/enes-turan-"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-outline"
